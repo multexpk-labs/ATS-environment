@@ -1,0 +1,8 @@
+{
+  "model": "qwen3.6:36b",
+  "prompt": "Explain the purpose of a reverse proxy in three concise points.",
+  "stream": false,
+  "options": {
+    "temperature": 0.2
+  }
+}
